@@ -3,7 +3,7 @@
 @tailwind utilities;
 @keyframes slideRight {
   from { transform: translateX(0); }
-  to { transform: translateX(-100%); } /* Adjust distance based on your needs */
+  to { transform: translateX(-100%); } 
 }
  
 @layer base {
@@ -257,11 +257,6 @@ line-height: 104.9%;
   100% {
     transform: translateX(-100%);
   }
-}
-
-.scroll-container {
-  display: flex;
-  animation: scrollRight 10s linear infinite; /* Adjust the duration as needed */
 }
 
 }
