@@ -67,7 +67,15 @@ export default function Home() {
           </div>
         </div>
 
-      </div><Faq /></>
+      </div><Faq />
+     <div className="flex justify-between">
+          <div className="text-white text-[30px] not-italic font-bold leading-[normal] mr-10 mt-14 ml-10">Members</div>
+          <div className="mt-10 mr-20"><Button />
+          </div>
+        </div>
+          <Members/>
+          <Rectmem/>
+    </>
   
   
   
