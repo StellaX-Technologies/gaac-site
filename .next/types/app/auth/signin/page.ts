@@ -1,4 +1,4 @@
-// File: D:\stellex task\gaac-site\gaac-site\app\auth\signin\page.tsx
+// File: D:\gitam-club\app\auth\signin\page.tsx
 import * as entry from '../../../../../app/auth/signin/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

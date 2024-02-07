@@ -1,4 +1,4 @@
-// File: D:\stellex task\gaac-site\gaac-site\app\layout.tsx
+// File: D:\gitam-club\app\layout.tsx
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
